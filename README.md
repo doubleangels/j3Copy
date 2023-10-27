@@ -1,6 +1,7 @@
 # j3Copy
 
-- **Warning: This project is depreciated and not under active development.**
+**Warning: This repository is not currently maintained, please use at your own risk!**
+
 - A custom file syncronization program for J3 Engineering Consultants, Inc.
 
 ## Main
